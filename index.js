@@ -76,9 +76,9 @@
 
 
 
-const { 
-  Client, 
-  Events, 
+const {
+  Client,
+  Events,
   GatewayIntentBits
 } = require('discord.js');
 const client = new Client({ intents: [
@@ -88,27 +88,52 @@ const client = new Client({ intents: [
 	GatewayIntentBits.GuildMembers,
 ]});
 console.log(client);
-const DISCORDTOKEN = process.env['DISCORDTOKEN'];
+// const DISCORDTOKEN = process.env['DISCORDTOKEN'];
+const DISCORDTOKEN=""
 console.log(DISCORDTOKEN);
+
 client.once(Events.ClientReady, () => {
 	console.log('Ready!');
-});
+  const user = client.channels.cache //.get('<id>');
+  client.channels.cache.get(`1031932278143717390`).send(`Text`)
+  console.log(JSON.stringify(user, null, 4));
+  // user.send('<content>');
+  client.on(Events.InteractionCreate, async interaction => {
+    if (!interaction.isChatInputCommand()) return;
+    console.log(JSON.stringify(interaction, null, 2));
+    const { commandName } = interaction;
+    await interaction.deferReply();
+    // ...
+  });
 
-client.on(Events.InteractionCreate, async interaction => {
-	if (!interaction.isChatInputCommand()) return;
-  console.log(JSON.stringify(interaction, null, 2));
-	const { commandName } = interaction;
-	await interaction.deferReply();
-	// ...
-});
+  client.on('messageCreate', function(message) {
+   console.log(message.content)
+  });
+  
 
-client.on('message', function(message) {
- console.log(message.content)
-});
+  client.on(Events.GuildMemberAdd, (guildMember) => {
+    // {
+    //   "guildId": "1031932277581697155",
+    //   "joinedTimestamp": 1669218027452,
+    //   "premiumSinceTimestamp": null,
+    //   "nickname": null,
+    //   "pending": false,
+    //   "communicationDisabledUntilTimestamp": null,
+    //   "userId": "1044953656841220096",
+    //   "avatar": null,
+    //   "displayName": "AlexOnfuel",
+    //   "roles": [
+    //     "1031932277581697155"
+    //   ],
+    //   "avatarURL": null,
+    //   "displayAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    // }
+    console.log(JSON.stringify(guildMember, null, 2));
+    const role = guildMember.guild.roles.cache.find(role => role.name === "foobar")
+    guildMember.roles.add(role).catch(console.error);
+  });
 
-client.on('guildMemberAdd', (guildMember) => {
-  console.log(JSON.stringify(guildMember, null, 2));
-  guildMember.addRole(guildMember.guild.roles.find(role => role.name === "ew"));
 });
 
 client.login(DISCORDTOKEN);
+
