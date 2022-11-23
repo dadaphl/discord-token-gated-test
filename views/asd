@@ -1,0 +1,519 @@
+phl#5849
+
+dHSLtGBzcPTpiz1efwohyYjMmyib03 hIcd7CcmjPxxQ3DZRlxVbQQ3Mo4z8L {
+  id: '342245655257022467',
+  username: 'phl',
+  avatar: '1d21ecf8767951b3d0a7a158123aba7a',
+  avatar_decoration: null,
+  discriminator: '5849',
+  public_flags: 0,
+  flags: 0,
+  banner: null,
+  banner_color: null,
+  accent_color: null,
+  locale: 'en-US',
+  mfa_enabled: true,
+  premium_type: 0,
+  email: 'klein.philipp@gmail.com',
+  verified: true,
+  provider: 'discord',
+  accessToken: 'dHSLtGBzcPTpiz1efwohyYjMmyib03',
+  guilds: [
+    {
+      id: '102860784329052160',
+      name: 'Reactiflux',
+      icon: 'a_4fbc177539c73d884393602c62be8a38',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1002979053121'
+    },
+    {
+      id: '318590007881236480',
+      name: 'Graphics Programming',
+      icon: 'a_b3cf2b82a2dc443de1c44334453c63ea',
+      owner: false,
+      permissions: 104189504,
+      features: [Array],
+      permissions_new: '1071698529856'
+    },
+    {
+      id: '325477692906536972',
+      name: 'Vue Land',
+      icon: '75523e3c0f68b7e092c9ca6c7ee09ecc',
+      owner: false,
+      permissions: 104193600,
+      features: [Array],
+      permissions_new: '1002979057216'
+    },
+    {
+      id: '397566282729390110',
+      name: 'OpenSea',
+      icon: 'a_65bdec193bc990bd97c7a35e682fa59a',
+      owner: false,
+      permissions: 37084737,
+      features: [Array],
+      permissions_new: '968552209985'
+    },
+    {
+      id: '425824580918181889',
+      name: 'Nodeiflux',
+      icon: '11e71c2f1b62a41fce7ac9cda2692997',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '435685690936786944',
+      name: 'CryptoDevs',
+      icon: '66879d29cbc21914d9624d228bd63ef1',
+      owner: false,
+      permissions: 104189504,
+      features: [Array],
+      permissions_new: '1071698529856'
+    },
+    {
+      id: '438038660412342282',
+      name: 'graphprotocol',
+      icon: 'f73d64dd9a0da0475a4a921e4dbaffa1',
+      owner: false,
+      permissions: 104193601,
+      features: [Array],
+      permissions_new: '1002979057217'
+    },
+    {
+      id: '457912077277855764',
+      name: 'Svelte',
+      icon: 'ea3d74c9d4e51d12cd2daa3ea1b44bb6',
+      owner: false,
+      permissions: 103927361,
+      features: [Array],
+      permissions_new: '1071698267713'
+    },
+    {
+      id: '459281752326799380',
+      name: 'DAOstack',
+      icon: '4df47fa2f905d28501328a359272f127',
+      owner: false,
+      permissions: 70639168,
+      features: [Array],
+      permissions_new: '1071664979520'
+    },
+    {
+      id: '473401852243869706',
+      name: 'Nuxt',
+      icon: '15f765c8f49ae24edd9e6a59302a0c58',
+      owner: false,
+      permissions: 104193601,
+      features: [Array],
+      permissions_new: '1071698533953'
+    },
+    {
+      id: '481002907366588416',
+      name: 'MythX Community',
+      icon: 'ff6e3159f26e1c356eaf095761b63268',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '520622812742811698',
+      name: 'NestJS',
+      icon: '6e1eaa2f6b889732f03b585c17ec4e90',
+      owner: false,
+      permissions: 104177217,
+      features: [Array],
+      permissions_new: '1071698517569'
+    },
+    {
+      id: '566761527529570356',
+      name: 'MolochDAO',
+      icon: 'dbc6c9c59af3188d8ff3b72c987340fa',
+      owner: false,
+      permissions: 104193601,
+      features: [Array],
+      permissions_new: '1071698533953'
+    },
+    {
+      id: '568763168441106433',
+      name: 'Nansen',
+      icon: 'a_e689e4c173ea14b28dafc5b6c3bd4e8a',
+      owner: false,
+      permissions: 104193601,
+      features: [Array],
+      permissions_new: '4399160897'
+    },
+    {
+      id: '578992315641626624',
+      name: 'Avalanche',
+      icon: '73cf61686e43647d01c544a2f8c6acf5',
+      owner: false,
+      permissions: 36802112,
+      features: [Array],
+      permissions_new: '831112973888'
+    },
+    {
+      id: '595666850260713488',
+      name: 'Eth R&D',
+      icon: 'a_ea9e6d5f14867dbb9ce93fabc325870b',
+      owner: false,
+      permissions: 104193601,
+      features: [Array],
+      permissions_new: '1071698533953'
+    },
+    {
+      id: '600834479145353243',
+      name: 'Celo',
+      icon: '2e2555e148743f7015582424d845fe81',
+      owner: false,
+      permissions: 67492929,
+      features: [Array],
+      permissions_new: '556265757761'
+    },
+    {
+      id: '605571803288698900',
+      name: 'Zig Programming Language',
+      icon: '466267c5dc88adaab27ef76c46671f0d',
+      owner: false,
+      permissions: 104189633,
+      features: [Array],
+      permissions_new: '1071698529985'
+    },
+    {
+      id: '613469464280694806',
+      name: 'Clovers.network',
+      icon: 'e8690cc707c4510d5a19b633d05a684a',
+      owner: false,
+      permissions: 104193601,
+      features: [Array],
+      permissions_new: '1071698533953'
+    },
+    {
+      id: '635865020172861441',
+      name: 'Polygon',
+      icon: '5ce6ace8b845411fb7698d4ba3eb07b9',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1000831569473'
+    },
+    {
+      id: '662267976984297473',
+      name: 'Midjourney',
+      icon: 'e75033be72087a87fa09e91727dac2a4',
+      owner: false,
+      permissions: 104189504,
+      features: [Array],
+      permissions_new: '1002979053120'
+    },
+    {
+      id: '689776926738481168',
+      name: 'Ape Unit',
+      icon: '8d4a0de5caa7f2e70a9ea7dd8dce3a39',
+      owner: false,
+      permissions: 1178074705,
+      features: [Array],
+      permissions_new: '1089952284241'
+    },
+    {
+      id: '690813895572717578',
+      name: 'VR Club vs Virus',
+      icon: 'eb8c8950305c8882352cef9cf3be8a6b',
+      owner: false,
+      permissions: 2147483647,
+      features: [Array],
+      permissions_new: '4398046511103'
+    },
+    {
+      id: '701149241107808327',
+      name: 'Token Engineering / TE Academy',
+      icon: 'd64cb5b88e2bff434b832650c2da9b20',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '735965332958871634',
+      name: 'Alchemy',
+      icon: 'a_28df0b0cef8ca1217b215760c73f7d5c',
+      owner: false,
+      permissions: 67488833,
+      features: [Array],
+      permissions_new: '1067366861889'
+    },
+    {
+      id: '740913612368904192',
+      name: 'ZKHack',
+      icon: '563e77fef09d0f670c4218ce4bc84842',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '750408878008827925',
+      name: 'Hardhat Community',
+      icon: '6200bba55e0ec1b77f876da0e9627285',
+      owner: false,
+      permissions: 67488833,
+      features: [Array],
+      permissions_new: '1037302090817'
+    },
+    {
+      id: '755466764501909692',
+      name: 'Flashbots',
+      icon: 'a_42432fb441f0ecbd489d526e3305740d',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '763219451905704026',
+      name: 'Rari Capital (Tribe DAO)',
+      icon: 'a_adfd4846a4285e203b88324941038a0a',
+      owner: false,
+      permissions: 104189504,
+      features: [Array],
+      permissions_new: '831180361280'
+    },
+    {
+      id: '796994247978254357',
+      name: 'Dacade',
+      icon: 'c4bcc44021dfbef71f54a3b138482278',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1002979053121'
+    },
+    {
+      id: '807206205343793152',
+      name: 'Folia',
+      icon: '20f526ac24b38d073074ea13ffa4edfe',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '811989166782021633',
+      name: 'Strapi Community',
+      icon: '252459c9efef23700e57b6af835e6f7c',
+      owner: false,
+      permissions: 103927361,
+      features: [Array],
+      permissions_new: '1071698267713'
+    },
+    {
+      id: '813592510294786058',
+      name: 'REFRACTION',
+      icon: 'b46d3b885166c337379890d46d5eb39a',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '814328279468474419',
+      name: 'Secureum',
+      icon: '91e5960796f5262a4713dbf51fd63939',
+      owner: false,
+      permissions: 104320577,
+      features: [Array],
+      permissions_new: '1071698660929'
+    },
+    {
+      id: '821312706312273921',
+      name: 'Forefront',
+      icon: '83e3be6e35eada6a5cbab4c74c89928d',
+      owner: false,
+      permissions: 104156224,
+      features: [Array],
+      permissions_new: '1002979019840'
+    },
+    {
+      id: '834837272234426438',
+      name: 'Server of Math Exposition',
+      icon: '8a1c90f680cbba4b88d600d69163b55a',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '856661610139746334',
+      name: 'objkt.com',
+      icon: '905bde7b2445acefa0bfb8a29d2a03bb',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '934259576385'
+    },
+    {
+      id: '862735701858320415',
+      name: 'Magic',
+      icon: '23580c6a1f6f3de52ddb01e36f01ae42',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '869983523371642921',
+      name: 'Forta',
+      icon: 'e2d5937dd43444b45ef8e006899e04d6',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1037338791489'
+    },
+    {
+      id: '875005619155918928',
+      name: 'DeFi Learning',
+      icon: '7210ad0713008f31f3f89492608c776c',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '897726878109028402',
+      name: 'PREMINT Creator Chat',
+      icon: '964b6212b3cfcff6f36972a8eddc6aca',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '900333075509149767',
+      name: 'fxhash',
+      icon: '5ab8c13a43cadcf065eab80c98e568de',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '908672304236625970',
+      name: 'Teia Community',
+      icon: '651708aee3905dcb30123e7b5253bc0a',
+      owner: false,
+      permissions: 104188992,
+      features: [Array],
+      permissions_new: '966471830592'
+    },
+    {
+      id: '909834111592591421',
+      name: 'NTS',
+      icon: 'b49d0206106d7ae577c5230a153452d4',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '910069601046523914',
+      name: 'NFT Club Berlin',
+      icon: '77df80e452356aa7e94aa29f2fadd010',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '911009403598159923',
+      name: 'Spice Club',
+      icon: '68e9a5b54b282328d69311b784ac46f0',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '914560871647297627',
+      name: 'NFTBERLIN',
+      icon: 'f3ec095a3caee8717afd60184192c7e6',
+      owner: false,
+      permissions: 104320577,
+      features: [Array],
+      permissions_new: '1071698660929'
+    },
+    {
+      id: '938750254365413386',
+      name: 'DappCon',
+      icon: '6bf754c83538af396ac2df5668533560',
+      owner: false,
+      permissions: 104320577,
+      features: [Array],
+      permissions_new: '1071698660929'
+    },
+    {
+      id: '938865686283948102',
+      name: 'flex club',
+      icon: '74c45aac01c74319ab85a9438e77cf2b',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '941557567321165854',
+      name: 'MIDAO',
+      icon: '337b7daf530c3f67077a8188e69f11b1',
+      owner: false,
+      permissions: 104320577,
+      features: [Array],
+      permissions_new: '1071698660929'
+    },
+    {
+      id: '942318442340560917',
+      name: 'zkDAO (ZKU.one)',
+      icon: 'd102b7a4a46dcc8933083d63e95cd4be',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '1071698529857'
+    },
+    {
+      id: '952238624982843453',
+      name: 'FUEL',
+      icon: '57e92b7c97f56af879aed8e7f2c2608d',
+      owner: false,
+      permissions: 104324417,
+      features: [Array],
+      permissions_new: '1011569122625'
+    },
+    {
+      id: '962119495206453278',
+      name: 'Omnite',
+      icon: 'fe98cbe758f0de16c64ccba662fe5a64',
+      owner: false,
+      permissions: 104189505,
+      features: [Array],
+      permissions_new: '691593924161'
+    },
+    {
+      id: '981155460826685440',
+      name: 'FTC',
+      icon: '60f404a8e2d30416da3edf7f25bb1d97',
+      owner: false,
+      permissions: 103878145,
+      features: [Array],
+      permissions_new: '4398845441'
+    },
+    {
+      id: '1031932277581697155',
+      name: "phl's server",
+      icon: null,
+      owner: true,
+      permissions: 2147483647,
+      features: [Array],
+      permissions_new: '4398046511103'
+    }
+  ],
+  fetchedAt: 2022-11-23T13:34:49.535Z
+}
